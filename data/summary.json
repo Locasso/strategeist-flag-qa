@@ -1,0 +1,57 @@
+{
+  "total_flags": 1063,
+  "visual_issues_default": 433,
+  "visual_compatible_default": 630,
+  "crop_count": 319,
+  "smear_count": 152,
+  "composition_count": 248,
+  "groups": {
+    "A_no_local_issue": 532,
+    "E_edge_blending_risk": 98,
+    "C_motif_clipped": 169,
+    "B_edge_or_composition": 114,
+    "D_artwork_or_UV_adaptation": 150
+  },
+  "positions_heuristic": {
+    "centered": 761,
+    "field_or_unisolated_motif": 265,
+    "offset_left": 24,
+    "offset_right": 13
+  },
+  "edge_seam_risk": {
+    "low": 853,
+    "high": 196,
+    "moderate": 14
+  },
+  "source_aspect": 1.6344086021505377,
+  "configs": {
+    "default": {
+      "x": 1.2,
+      "y": 2.2,
+      "aspect_error_percent": 12.171
+    },
+    "proportional": {
+      "x": 1.2,
+      "y": 1.9612903225806453,
+      "aspect_error_percent": 0.0
+    },
+    "y14": {
+      "x": 1.2,
+      "y": 1.4,
+      "aspect_error_percent": -28.618
+    },
+    "fit": {
+      "x": 2,
+      "y": 3.2688172043010755,
+      "aspect_error_percent": 0.0
+    },
+    "no_clamp": {
+      "x": 1.2,
+      "y": 1.25,
+      "aspect_error_percent": -36.266
+    }
+  },
+  "default_aspect_error_percent": 12.17105263157896,
+  "extra_uasset_note": "14 auxiliary .uasset files outside Content share names with tested PNGs. They are not additional flag designs and were not audited as standalone packages.",
+  "capture_method": "Real Unreal Canvas GPU render of MID parented to unchanged MI_FlagEdit; square 512x512, WBP is a single material Image in a 256x256 SizeBox. Report cards annotate these renders; they are not screenshots of the editor Details panel. No Play/DPI/interaction test."
+}

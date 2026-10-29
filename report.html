@@ -1,0 +1,66 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Strategeist flag QA report</title><style>body{max-width:1000px;margin:36px auto;padding:0 24px;background:#10161e;color:#eef4f9;font:16px/1.6 system-ui}a{color:#e3c087}table{border-collapse:collapse;width:100%}td,th{border:1px solid #354352;padding:10px;text-align:left}pre,code{white-space:pre-wrap;background:#1a2430}h1,h2{line-height:1.2;margin-top:30px}</style><a href="./">← Flag gallery</a><pre># Strategeist flag QA
+
+28–29 October 2026 · Client review report. Use the flag gallery to inspect every source and tested setting.
+
+## Results
+
+All **1,063 flag PNGs** in `SGAssets/Flags` were tested with the actual `MI_FlagEdit` material. Each source is 152×93 pixels. There are **4,055 Unreal renders** and **1,063 annotated comparison images**.
+
+The visual pass flagged **433 cases**. Another **630** had no strong local clipping, streaking or composition issue by that criterion; those include **98** with a separate numerical edge-blending risk. These are screening results, not certification of zero distortion.
+
+| Group | Flags | Interpretation |
+|---|---:|---|
+| A · No obvious local issue | 532 | Readable motif at the default; global aspect-ratio error still applies |
+| B · Edge / composition issue | 114 | Edge streaks, extension or composition changes |
+| C · Motif clipped | 169 | Wider sampling may recover content, at a smaller motif size |
+| D · Adapt artwork or UVs | 150 | Clipping combined with pattern/composition problems |
+| E · Edge blending risk | 98 | No strong local issue flagged, but opposing edge colors can blend |
+
+Overlapping findings: **319** motif-clipping cases, **152** edge-streaking/extension cases and **248** composition-adaptation cases. Do not add these counts together.
+
+## Scale and distortion
+
+The material samples `clamp((UV - 0.5) * (X,Y) + 0.5, 0, 1)`. UVs beyond the source range repeat its edge sample. A Wrap sampler can also blend opposing source edges at exact bilinear boundaries. The banner silhouette clips side content and lower corners.
+
+For a square brush and a 152×93 source, local aspect-ratio error is `(Y / X) / (152 / 93) - 1`.
+
+| Test | X | Y | Local aspect-ratio error | Tradeoff |
+|---|---:|---:|---:|---|
+| Default | 1.2 | 2.2 | +12.17% | Requested reference; features are relatively wider |
+| Aspect ratio | 1.2 | 1.96129 | 0% | Preserves feature proportions; clipping and edge extension remain possible |
+| Lower Y | 1.2 | 1.4 | −28.62% | Reduces streaks but stretches features vertically |
+| Fit motif | 2 | 3.26882 | 0% | Recovers lateral content, reduces motif size and may worsen edge extension |
+| Clamp control | 1.2 | 1.25 | −36.27% | Reduces internal clamping with substantial aspect distortion |
+
+Zero percent refers to local feature scaling **before clamping and silhouette clipping**. No tested alternative is a universal production fix. At the default, the approximate inner window retains 62% of the source width along its centerline.
+
+## Representative findings
+
+- **Abensberg / Arezzo:** readable centered compositions. The aspect-ratio control removes the default widening. Lowering every flag to Y1.4 is unsuitable: it can move Abensberg&#x27;s emblem into the pointed clipping area.
+- **Aragon:** the emblem is left-aligned in the source. The estimated motif mask retains about 84.2% at the default and 100% at X2/Y3.2688. The latter restores the emblem at a smaller size and does not recenter it. Y alone cannot recover horizontal clipping.
+- **Antioch:** repeated fleurs-de-lis at source boundaries turn into vertical streaks. Y1.4 and Y1.25 reduce those streaks while changing motif proportions. Preserving both field and symbols requires artwork or UV adaptation.
+- **Frankfurt:** the upper-left canton emblem is mostly clipped. Estimated mask retention is about 24.8% at the default; the fit test recovers it at a small size.
+
+## Position and symmetry
+
+Motif position is estimated from color-based segmentation and the center of its bounding box. It is **not semantic recognition**. A candidate mask may contain field regions, ornaments or multiple symbols. Retention estimates use this mask and a conservative approximate banner silhouette; read them alongside the images.
+
+Estimated positions: **761 centered**, **24 left-offset**, **13 right-offset**, and **265 fields/compositions without an isolated motif**. Intrinsic heraldic asymmetry or an animal shown in profile is not a defect. The criterion is information loss or deformation introduced by the material.
+
+The evidence includes 17 source/default contact sheets and ten alternative-setting sheets. A focused visual review of 45 heuristic discrepancies added five clipping cases to the final set.
+
+## Evidence and limits
+
+- Renders use the real Unreal Canvas GPU, a temporary MID parented to the original material, and a 512×512 sRGB target. The audited WBP has one material Image in a 256×256 SizeBox; captures use 2× sampling. This was an isolated material pass, without Play, interaction or multi-DPI validation. Annotated cards are not screenshots of the editor Details panel.
+- The legacy `OldTextures/SmallFlags` assets are 33×20. This pass used the requested 152×93 source PNGs as transient textures. Production texture import/compression is not certified.
+- The 14 auxiliary `.uasset` files outside Content share names with tested PNGs; they were not counted as additional designs or loaded as standalone packages.
+- Presentation PNGs preserve the engine-rendered RGB values. The Canvas capture alpha was discarded for opaque browser display. No geometry, colors or clipping were retouched.
+- All four pairs of byte-identical source PNGs produced identical default-render pixels.
+- No Unreal asset or source PNG was created, saved or modified during the QA pass.
+
+## Report files
+
+`captures/`: shareable comparisons. `renders/`: per-setting PNGs. `sources/`: source previews. `contact_sheets/`: review sheets. `data/results.json`: client-facing findings and parameters. Internal audit files and scripts are excluded from this hosted report.
+
+Use X1.2/Y1.96129 as an aspect-ratio control for centered motifs. For production, choose between adding artwork padding, supporting individual UV offsets, or treating emblems separately from their backgrounds. A single X/Y pair cannot preserve every horizontal flag while filling the vertical banner without these tradeoffs.
+</pre></html>

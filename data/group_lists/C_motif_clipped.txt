@@ -1,0 +1,172 @@
+C · Motif clipped — 169 flags
+ID | Flag | Estimated position | Alternative X / Y | Findings
+
+0009 | Ache | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0011 | Acolman | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0014 | Ahom | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0015 | Ainu | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0017 | Aka | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0024 | Algonquin | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0027 | Alodia | Left-offset motif (estimate) | 2 / 3.26882 | Motif clipping
+0032 | Anangu | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0035 | Anjou | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0038 | Antankarana | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0040 | Apache | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0045 | Aquitaine | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0046 | Aragon | Left-offset motif (estimate) | 2 / 3.26882 | Motif clipping
+0047 | Arapaho | Left-offset motif (estimate) | 2 / 3.26882 | Motif clipping
+0058 | Assiniboin | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0061 | Atakapa | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0063 | Atoni | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0064 | Attikamek | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0073 | Bafour | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0074 | Bahau | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0080 | Bani_Yas | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0097 | Bengal | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0099 | Beothuk | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0106 | Bidjara | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0110 | Blankenburg | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0120 | Braunshweig_Luneburg | Field / motif not isolated | 2 / 3.26882 | Motif clipping
+0121 | Breisgau | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0122 | Bremen | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0128 | Briey | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0132 | Bukoba | Field / motif not isolated | 2 / 3.26882 | Motif clipping
+0139 | Byzantium | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0143 | Cammin | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0149 | Castile | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0161 | Chalons | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0162 | Chamorro | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0166 | Changbin | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0167 | Chango | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0169 | Chatot | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0171 | Chehalis | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0172 | Chera | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0181 | Chicomuceltec | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0186 | Chiricahua | Field / motif not isolated | 2 / 3.26882 | Motif clipping
+0189 | Chola | Field / motif not isolated | 2 / 3.26882 | Motif clipping
+0190 | Cholutec | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0193 | Chukotko | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0195 | Ciboney | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0197 | Cilicia | Right-offset motif (estimate) | 2 / 3.26882 | Motif clipping
+0205 | Comoros | Left-offset motif (estimate) | 2 / 3.26882 | Motif clipping
+0213 | Cree | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0222 | Curuava | Field / motif not isolated | 2 / 3.26882 | Motif clipping
+0223 | Cusabo | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0226 | Dakota | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0227 | Dali | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0228 | Dambadeniya | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0233 | Dapankeng | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0241 | Deutz | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0251 | Dortmund | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0252 | Douala | Field / motif not isolated | 2 / 3.26882 | Motif clipping
+0253 | Dresden | Left-offset motif (estimate) | 2 / 3.26882 | Motif clipping
+0255 | Drohiczyn | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0264 | Erbach | Field / motif not isolated | 2 / 3.26882 | Motif clipping
+0269 | Estonia | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0270 | Etak | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0272 | Everstein | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0283 | France | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0284 | Frankfurt | Left-offset motif (estimate) | 2 / 3.26882 | Motif clipping
+0290 | Garha_Mandla | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0295 | Georgia | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0317 | Guaicuru | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0325 | gubbi_gubbi | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0333 | Hanau | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0344 | Hildesheim | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0348 | Hochelaga | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0355 | Hoti | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0358 | Hoysala | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0359 | Huarpe | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0366 | Iban | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0369 | Ifat | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0373 | Igorot | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0375 | Iloko | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0382 | Ivatan | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0386 | Jailolo | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0387 | Jalo | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0398 | K_asho_Got_ine | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0399 | Kachari | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0410 | Kamala_Mandala | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0413 | Kamerijk | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0416 | Kara_Khitan | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0421 | Kashi | Field / motif not isolated | 2 / 3.26882 | Motif clipping
+0422 | Kashmir | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0424 | Katu | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0428 | Kayapo | Field / motif not isolated | 2 / 3.26882 | Motif clipping
+0430 | Kelantan | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0432 | Kerman | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0433 | Khakas | Left-offset motif (estimate) | 2 / 3.26882 | Motif clipping
+0434 | Khanty | Left-offset motif (estimate) | 2 / 3.26882 | Motif clipping
+0439 | Khotan | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0444 | Kilwa | Left-offset motif (estimate) | 2 / 3.26882 | Motif clipping
+0447 | Kirchberg | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0453 | Klikitat | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0459 | Konidena | Field / motif not isolated | 2 / 3.26882 | Motif clipping
+0468 | Kulin | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0477 | Langkasuka | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0482 | Lausitz | Field / motif not isolated | 2 / 3.26882 | Motif clipping
+0499 | Lothringen | Field / motif not isolated | 2 / 3.26882 | Motif clipping
+0501 | Lubeck | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0507 | Lumad | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0524 | Mahuta | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0542 | Mangue | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0560 | Mbale | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0617 | Nannuru | Field / motif not isolated | 2 / 3.26882 | Motif clipping
+0631 | Ngaju | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0638 | Nipissing | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0640 | Nkundu | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0641 | Nocte | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0650 | Nyala | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0668 | Osterland | Left-offset motif (estimate) | 2 / 3.26882 | Motif clipping
+0684 | Palawan | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0709 | Pericu | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0710 | Perlak | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0711 | Perm | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0713 | Pfirt | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0720 | Pistoia | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0725 | Polonnaruwa | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0732 | Pottapi | Field / motif not isolated | 2 / 3.26882 | Motif clipping
+0741 | Quiche | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0745 | Rama | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0753 | Renati | Field / motif not isolated | 2 / 3.26882 | Motif clipping
+0762 | Rum | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0765 | Rwanda | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0783 | Sancerre | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0799 | Schluchtern | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0804 | Selkup | Right-offset motif (estimate) | 2 / 3.26882 | Motif clipping
+0805 | Sena | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0811 | Shebayo | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0823 | Sican | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0835 | Sonderhausen | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0841 | Spain | Left-offset motif (estimate) | 2 / 3.26882 | Motif clipping
+0846 | Srbija | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0849 | Status_Pontificus | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0856 | Sumba | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0866 | Tahue | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0869 | Takrur | Left-offset motif (estimate) | 2 / 3.26882 | Motif clipping
+0883 | Tecuaxe | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0885 | Tehuesh | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0886 | Teke | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0888 | Tenochtitlan | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0889 | Teotitlan | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0891 | Tepeyacac | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0893 | Tetzapotitlan | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0898 | Tillamook | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0913 | Tochpan | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0915 | Tofalar | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0921 | Tortona | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0936 | Tub | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0939 | Tuensang | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0949 | Tuyuhun | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0954 | Udmurt | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0970 | Velanadu | Field / motif not isolated | 2 / 3.26882 | Motif clipping
+0972 | Venad | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0981 | Volga_Bulgaria | Right-offset motif (estimate) | 2 / 3.26882 | Motif clipping
+0985 | Waigeo | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0986 | Wainana | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+0992 | Wappo | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+1007 | Wiltberg | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+1020 | Wunstorf | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+1026 | Xilotepec | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+1033 | Yafi | Centered motif (estimate) | 2 / 3.26882 | Motif clipping
+1042 | Yirandali | Centered motif (estimate) | 2 / 3.26882 | Motif clipping

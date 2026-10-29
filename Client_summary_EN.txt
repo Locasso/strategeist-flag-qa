@@ -1,0 +1,7 @@
+I tested all 1,063 flag PNGs using the actual Unreal material, with the default settings and alternative configurations. The review flagged 433 cases with visible motif clipping, edge streaking or composition loss; 630 had no obvious local issue by that criterion, including 98 cases with a separate numeric edge-blending risk.
+
+Centered emblems are generally more compatible. Off-center and widely distributed symbols are often clipped, while patterns that reach the image edges can stretch into streaks because of the material's UV clamp. Aragon can recover its full emblem with a wider sampling scale, but the emblem becomes smaller and remains left-aligned. Antioch improves with a lower Y value, although that trades the streaks for a change in the motif's proportions.
+
+There is also a shared proportional issue: for the 152x93 source files, X=1.2 and Y=2.2 makes internal features approximately 12.2% wider relative to their original height. Y=1.9613 at X=1.2 preserves that local aspect ratio, but does not solve edge extension or clipping. There is no single X/Y pair that preserves every full flag, its proportions and a fully filled vertical banner.
+
+The report includes per-flag renders, groups and parameter comparisons. Alternative settings are comparison candidates, not a claim that all flagged cases are fully solved. Captures use the real Unreal material offscreen; production import/compression, full gameplay and multiple DPI settings were not part of this pass.

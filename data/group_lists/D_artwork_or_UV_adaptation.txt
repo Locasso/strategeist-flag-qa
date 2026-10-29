@@ -1,0 +1,153 @@
+D · Adapt artwork or UVs — 150 flags
+ID | Flag | Estimated position | Alternative X / Y | Findings
+
+0127 | Breteuil | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension
+0129 | Bruchhausen | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0153 | Cayapa | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0177 | Chiapanec | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0198 | Citlaltepec | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0199 | Clermont | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Edge streaking / extension
+0200 | Clettgau | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0208 | Coroado | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0247 | Dodoma | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0249 | Doornik | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Edge streaking / extension
+0297 | Ghiryu | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0304 | Goryeo | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0309 | Greece | Left-offset motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0324 | Guaymi | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0336 | Hartenstein | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0343 | Henegouwen | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0353 | Honiara | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0371 | Iglulik | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0388 | Janggala | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0404 | Kakatiya | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0408 | Kalispel | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0409 | Kamaka | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0414 | Kanem | Right-offset motif (estimate) | 2 / 3.26882 | Motif clipping; Edge streaking / extension
+0426 | Kawesqar | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0442 | Kikuyu | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0455 | Koln | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0456 | Komi | Left-offset motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0457 | Komoks | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0471 | Kwakiutl | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0473 | La_Bresse | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0478 | Langres | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0479 | Laon | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0484 | Leiningen | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0487 | Leuchtenburg | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0488 | Lhasa | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0490 | Limburg | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0502 | Lucayo | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0504 | Luchow | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0514 | Lyon | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0515 | Ma_i | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0521 | Magyarorszag | Right-offset motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0534 | Maliseet | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0538 | Manado | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0539 | Manao | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0543 | Manipur | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0546 | Mantua | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0549 | Marawan | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0552 | Marquartstein | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0555 | Mataco | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0559 | Mazovia | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0566 | Meissen | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0572 | Merina | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0577 | Mi_kmaq | Left-offset motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0581 | Mithila | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0590 | Mongo | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0592 | Montbeliard | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0594 | Montreuil_sur_Mer | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0606 | Mulifanua | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0607 | Munster | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0610 | Murut | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0615 | Nabatea | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0622 | Nassau | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0624 | Navajo | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0625 | Navarre | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0629 | Nepal | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0633 | Nguru | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0636 | Niitsitapi | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0639 | Niwakle | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0651 | Nyanje | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0662 | Ortamunde | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0663 | Ortenburg | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0665 | Oschatz | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0667 | Osraige | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0674 | Ouchi | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0677 | Oyampi | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0685 | Palicur | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0686 | Pallawah | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0689 | Panai | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0690 | Pandya | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0705 | Pemba | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0715 | Picunche | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0730 | Portugal | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0735 | Preussen | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0737 | Qamdo | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0740 | Quelimane | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0742 | Quileute | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0752 | Reims | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0761 | Roucy | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0768 | Saarbrucken | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0769 | Sabane | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0770 | Sakalava | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0772 | Salinan | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0779 | Samar | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0788 | Sarcee | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0790 | Satake | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0791 | Satare | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0800 | Schwyz | Right-offset motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0810 | Shawnee | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0819 | Shor | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0821 | Shuswap | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0824 | Sicilia | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0826 | Sigmaringen | Left-offset motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0834 | Somalia | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0837 | Songhay | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0863 | Sweden | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0864 | Tahiti | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0868 | Takeda | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0871 | Tama | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0872 | Tanaina | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0876 | Tapite | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0880 | Tawaili | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0882 | Tecklenburg | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0895 | Thekkumkur | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0896 | Thule | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0899 | Timbira | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0901 | Tinggi | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0903 | Tjarutja | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0904 | Tlachco | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0920 | Torgau | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0923 | Touraine | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0934 | Tu_i_Tonga | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0938 | Tucano | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0940 | Tunebo | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0942 | Tupinamba | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0944 | Tutelo | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0945 | Tututni | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0960 | Ute | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0967 | Vanuatu | Left-offset motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0969 | Vechta | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0976 | Verdun | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0980 | Vogtland | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0990 | Wales | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+0991 | Wanka | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+0993 | Warrau | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+1000 | Wenro | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+1002 | Wertheim | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+1003 | Wesel | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+1013 | Wittstock | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+1017 | Wolpe | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+1019 | Worms | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+1022 | Xavante | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+1032 | Yadava | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+1034 | Yakima | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+1036 | Yamagata | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+1037 | Yamana | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+1039 | Yavapai | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+1043 | Yokuts | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+1053 | Zamuco | Centered motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation
+1055 | Zapotec | Field / motif not isolated | 2 / 3.26882 | Motif clipping; Edge streaking / extension; Composition needs adaptation
+1057 | Ziegenhain | Left-offset motif (estimate) | 2 / 3.26882 | Motif clipping; Composition needs adaptation

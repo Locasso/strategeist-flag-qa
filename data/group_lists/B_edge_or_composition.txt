@@ -1,0 +1,117 @@
+B · Edge / composition issue — 114 flags
+ID | Flag | Estimated position | Alternative X / Y | Findings
+
+0019 | Akha | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0028 | Alotau | Right-offset motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension
+0037 | Antaifasy | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0039 | Antioch | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension
+0054 | Aruaco | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0060 | Atacameno | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0068 | Aymara | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0086 | Bar | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension
+0092 | Beaumont | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension
+0096 | Bemba | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0101 | Bergenz | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0104 | Biak | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension
+0111 | Blemmyes | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0112 | Blois | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0116 | Bourbon | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension
+0117 | Bourgogne | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0135 | Burgund | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0137 | Butuan | Field / motif not isolated | 1.2 / 1.40000 | Composition needs adaptation
+0142 | Calw | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension
+0155 | Cayuse | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0156 | Cazan | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0157 | Cebu | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension
+0164 | Champagne | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0173 | Chernigov | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0174 | Cherokee | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0183 | Chimu | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0191 | Chono | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0206 | Concho | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0210 | Coucy | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0218 | Cuetlaxtlan | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0221 | Cunco | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0225 | Dai_Viet | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0235 | Dawa | Field / motif not isolated | 1.2 / 1.40000 | Composition needs adaptation
+0243 | Diaguita | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0246 | Dillingen | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension
+0259 | Elsass | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0260 | Eluanbi | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0291 | Gaviao | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0300 | Goajiro | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0318 | Guajajara | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0320 | Guamo | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0322 | Guarijio | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0326 | Guetar | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0339 | Hawai_i | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension
+0341 | Heiligenburg | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0362 | Huilliche | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0396 | Jurchen | Centered motif (estimate) | 1.2 / 1.40000 | Composition needs adaptation
+0406 | Kalapuya | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0418 | Karankawa | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0436 | Khmu | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0445 | Kimaan | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0452 | Kitara | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0465 | Kraho | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0476 | Lamut | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0497 | Lokono | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0516 | Maanyan | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0518 | Madyas | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0525 | Maine | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0529 | Malabo | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0544 | Mansfeld | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0547 | Mapuche | Right-offset motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0587 | Mohegan | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0591 | Mongolia | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0596 | Morotai | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0597 | Mosquito | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0611 | Muskogee | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0614 | Mzizima | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0621 | Naskapi | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0630 | Nevers | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0655 | Ofaye | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0671 | Ottawa | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0672 | Ottingen | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0673 | Otzoman | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0701 | Pawnee | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0702 | Paya | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0706 | Pequot | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0707 | Perche | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0728 | Ponthieu | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0729 | Porou | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0746 | Rangitane | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0750 | Ravensburg | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0771 | Salaya | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension
+0797 | Schelklingen | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0801 | Scotland | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0812 | Sheka | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0815 | Shibukawa | Centered motif (estimate) | 1.2 / 1.40000 | Composition needs adaptation
+0820 | Shoshone | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0827 | Sika | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0831 | Slavien | Left-offset motif (estimate) | 1.2 / 1.40000 | Composition needs adaptation
+0836 | Song | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0845 | Sponheim | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0853 | Sulzbach | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0857 | Sumo | Left-offset motif (estimate) | 1.2 / 1.40000 | Composition needs adaptation
+0870 | Talamanca | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0874 | Tangayika | Left-offset motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0878 | Taruma | Field / motif not isolated | 1.2 / 1.40000 | Composition needs adaptation
+0879 | Tataviam | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0887 | Tenino | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension
+0900 | Timucua | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0924 | Triburg | Field / motif not isolated | 1.2 / 1.40000 | Composition needs adaptation
+0930 | Tsimihety | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0966 | Valois | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0971 | Velay | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0974 | Venezia | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0977 | Vermandois | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0979 | Virneburg | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+0996 | Wayana | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+1004 | Wetar | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+1011 | Wittenberg | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+1027 | Xixia | Centered motif (estimate) | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+1029 | Xoconochco | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+1031 | Yabaana | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+1047 | Yucpa | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation
+1050 | Yuracare | Field / motif not isolated | 1.2 / 1.40000 | Edge streaking / extension; Composition needs adaptation

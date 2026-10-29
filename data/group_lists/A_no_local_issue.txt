@@ -1,0 +1,535 @@
+A · No obvious local issue — 532 flags
+ID | Flag | Estimated position | Alternative X / Y | Findings
+
+0001 | A_Zha | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0003 | Abbasids | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0004 | Abenaki | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0005 | Abenberg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0006 | Abensberg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0007 | Acaxee | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0008 | Achagua | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0010 | Achi | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0012 | Acqui | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0013 | Agnuak | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0016 | Ais | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0018 | Akamatsu | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0020 | Akwa_ala | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0022 | Albenga | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0023 | Alessandria | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0025 | Almohads | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0026 | Almoravids | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0029 | Alyawarre | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0030 | Amangu | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0033 | Andorra | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0036 | Ansbach | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0041 | Apalachee | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0042 | Apalai | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0043 | Apinye | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0044 | Aquileia | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0048 | Araua | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0049 | Arezzo | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0050 | Arnsberg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0051 | Arona | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0052 | Artuq | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0053 | Aru | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0055 | Aschaffenburg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0056 | Ashikaga | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0057 | Aso | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0059 | Asti | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0065 | Augsburg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0066 | Austria | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0067 | Awa | Right-offset motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0069 | Ayyubids | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0071 | Bacan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0072 | Baden | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0075 | Baiern | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0076 | Bakulapura | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0077 | Bali | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0078 | Bama | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0079 | Bamberg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0081 | Banjar | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0082 | Bantayan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0084 | Banu_Hamdan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0085 | Banu_Yam | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0087 | Bara | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0088 | Bare_e | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0089 | Barundji | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0090 | Barunggam | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0091 | Basel | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0093 | Beauvais | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0094 | Bederkesa | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0095 | Belmont | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0098 | Bentheim | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0100 | Bergamo | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0102 | Bessingen | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0105 | Bidar | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0107 | Biloxi | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0108 | Bilstein | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0109 | Blankenberg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0115 | Bouillon | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0118 | Brabant | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0119 | Brandenburg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0123 | Brene | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0124 | Brescia | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0126 | Bretagne | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0130 | Budingen | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0131 | Bugis | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0133 | Bulgaria | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0136 | Busendorf | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0138 | Butung | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0140 | Caddo | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0141 | Calusa | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0144 | Canavese | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0145 | Carib | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0146 | Cariri | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0147 | Casale | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0150 | Catawba | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0151 | Catio | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0152 | Catuquina | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0154 | Cayuga | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0158 | Chakchiuma | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0159 | Chake | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0160 | Chalco | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0163 | Champa | Left-offset motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0165 | Chandela | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0168 | Charrua | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0170 | Chauhan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0175 | Cheyenne | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0176 | Chiaha | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0178 | Chiba | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0179 | Chichimec | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0180 | Chickasaw | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0182 | Chimor | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0184 | Chipewyan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0185 | Chiribaya | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0187 | Chitimacha | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0192 | Choroti | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0194 | Chur | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0196 | Cihuatlan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0201 | Cleve | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0202 | Cochimi | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0203 | Coixtlahuacan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0204 | Commanche | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0207 | Connacht | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0209 | Cortona | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0211 | Cowichan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0212 | Coyolapan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0214 | Cremona | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0215 | Cuauhnahuac | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0216 | Cuauhtitlan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0217 | Cuauhtochco | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0219 | Cuman | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0220 | Cuna | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0230 | Danezaa | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0231 | Dani | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0234 | Dauphine | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0236 | Dawaro | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0237 | Dayak | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0238 | Delaware | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0239 | Delim | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0240 | Denmark | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0242 | Diafanu | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0244 | Diepholz | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0245 | Diez | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0248 | Dodonggo | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0250 | Dornburg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0254 | Dreux | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0256 | Durne | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0257 | Dvaravati | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0258 | Eberstein | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0261 | Embera | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0262 | Emerillon | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0263 | England | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0265 | Erfurt | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0266 | Erie | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0267 | Eschenlohe | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0268 | Eskaya | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0273 | Falkenstein | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0274 | Fang | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0276 | Fenetrange | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0278 | Fiji | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0279 | Firenze | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0280 | Flandre | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0281 | Foix | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0282 | Forez | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0285 | Frieselanden | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0286 | Frignana | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0287 | Frontenhausen | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0288 | Furstenburg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0289 | Gangga_Negara | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0292 | Ge | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0293 | Gelre | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0294 | Genua | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0299 | Glarus | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0301 | Gojjam | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0302 | Gond | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0303 | Gonzaga | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0306 | Gottingen | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0307 | Graenland | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0308 | Great_Britain | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0310 | Greiffenstein | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0311 | Grosseto | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0312 | Grumbach | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0313 | Gruningen | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0314 | Gr�nland | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0315 | Guacata | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0316 | Guahibo | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0321 | Guarani | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0323 | Guaycura | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0327 | Guhilot | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0329 | Gununakune | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0330 | Gurun | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0331 | Haida | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0332 | Halychyna | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0334 | Harar | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0335 | Haripunjaya | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0337 | Hatakeyama | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0340 | Heidelberg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0342 | Heiligenstadt | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0345 | Hirschberg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0346 | Hixkaryana | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0347 | Hochburg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0349 | Hohenburg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0350 | Hohenlohe | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0351 | Holland | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0352 | Holstein | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0354 | Hosokawa | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0356 | Houma | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0357 | Hoya | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0360 | Huaxtec | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0361 | Huaxtepec | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0363 | Hulontalo | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0365 | Hutan_Kadali | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0367 | Ice | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0372 | Iglulingmiut | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0374 | Illinois | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0376 | Imagawa | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0377 | Inhambane | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0378 | Iowa | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0379 | Ishikki | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0380 | Italy | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0381 | Ito | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0383 | Jaburrara | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0384 | Jaeanim | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0385 | Jaffna | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0389 | Japan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0390 | Jeiko | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0391 | Jenne | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0392 | Jerusalem | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0393 | Jirajara | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0394 | Jolof | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0395 | Julich | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0400 | Kadamba | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0401 | Kahu | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0402 | Kaialigamiut | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0403 | Kaisalpur_Birugarh | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0405 | Kalachuri | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0407 | Kalinga | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0411 | Kamarupa | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0415 | Kansa | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0417 | Karaja | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0419 | Karitiana | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0423 | Kaska | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0425 | Katzenelnbogen | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0427 | Kayan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0429 | Kedah | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0431 | Kele | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0435 | Khmer | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0437 | Khoisan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0438 | Khorasan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0440 | Khwarezm | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0441 | Kiev | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0443 | Kilindoni | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0446 | Kiowa | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0448 | Kiribati | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0450 | Kitakyushu | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0451 | Kitanemuk | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0454 | Koata | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0458 | Kongo | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0460 | Kono | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0461 | Koori | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0462 | Koryak | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0463 | Kowiai | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0464 | Koyukon | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0467 | Kuala_Berang | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0469 | Kutchin | Right-offset motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0470 | Kutenai | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0472 | Kyogoku | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0475 | Lamuri | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0480 | Laufen | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0485 | Lengua | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0486 | Leon | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0489 | Lichtenberg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0493 | Lithuania | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0494 | Livonia | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0495 | Lobdaburg | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0496 | Lodi | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0500 | Luba | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0505 | Luik | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0508 | Luo | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0510 | Luwu | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0512 | Luzern | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0513 | Luzong | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0517 | Macu | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0520 | Maguindanao | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0522 | Mahican | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0523 | Mahren | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0526 | Mainz | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0527 | Maka | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0528 | Makuria | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0530 | Malaspina | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0532 | Mali | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0533 | Malinalco | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0535 | Malopolska | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0537 | Mamberamo | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0540 | Mandar | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0541 | Mande | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0545 | Mansi | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0548 | Marae | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0550 | Mari | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0551 | Marpi | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0553 | Mascouten | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0554 | Massachuset | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0556 | Maxakali | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0557 | Maya | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0558 | Mayo | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0561 | Mbundu | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0562 | Meath | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0563 | Mecklenburg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0564 | Meena | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0565 | Meiningen | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0567 | Mekongka | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0568 | Melayu | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0570 | Menominee | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0571 | Meranien | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0573 | Merseburg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0574 | Metz | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0575 | Metztitlan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0576 | Meybrat | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0578 | Miami | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0579 | Minanokabau | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0580 | Missouri | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0582 | Mitterburg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0583 | Mixe | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0584 | Mixtec | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0585 | Modena | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0586 | Mohawk | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0588 | Mombassa | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0593 | Montfort | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0595 | Moriori | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0598 | Motilon | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0599 | Moxo | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0601 | Mpemba_Kasi | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0602 | Mpongwe | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0603 | Mtwara | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0608 | Murom_Ryazan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0609 | Murri | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0613 | Mwanza | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0616 | Namen | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0618 | Nanticoke | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0619 | Nara | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0620 | Narok | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0623 | Natchez | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0626 | Nazca | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0627 | Nellenburg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0632 | Nganasa | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0634 | Nheengatu | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0635 | Nidda | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0637 | Niki | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0643 | Noongar | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0644 | Nootka | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0645 | Normandie | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0646 | Norway | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0648 | Noyon | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0649 | Nunga | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0653 | Oaxtepec | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0654 | Ocuilan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0656 | Ojibwa | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0657 | Okanagan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0658 | Oldenburg | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0659 | Oman | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0661 | Oppeln_Ratibor | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0664 | Osage | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0666 | Osnabruck | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0669 | Osterreich | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0670 | Otomo | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0678 | Pachacamac | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0679 | Pagan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0681 | Paiute | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0682 | Pala | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0683 | Pala_wan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0687 | Palus | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0691 | Pangasinan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0692 | Pangwe | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0693 | Panjalu | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0694 | Pano | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0696 | Parchim | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0697 | Parma | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0698 | Passau | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0699 | Pavia | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0700 | Paviotso | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0703 | Pedi | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0708 | Pereyaslavl | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0712 | Petlacalco | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0714 | Picacenza | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0716 | Pima | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0717 | Pipil | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0718 | Piro | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0719 | Pisa | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0721 | Plains_Cree | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0722 | Po_ni | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0723 | Pocutuck | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0726 | Polotsk | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0727 | Pommern | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0731 | Potawatomi | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0733 | Pouma | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0734 | Powhatan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0736 | Provence | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0738 | Qikiqtamuit | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0743 | Quiyauhteopan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0744 | Rabaul | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0748 | Ratta | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0749 | Ratzeburg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0751 | Regensburg | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0754 | Reutlingen | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0755 | Rokkaku | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0758 | Rothenburg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0759 | Rotse | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0760 | Rottweil | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0763 | Rundi | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0767 | Saami | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0773 | Salish | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0774 | Salm | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0775 | Saltuk | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0777 | Salzburg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0781 | Samuora | Right-offset motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0784 | Sanger | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0785 | Sankt_Gallen | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0786 | Santee | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0787 | Sao | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0789 | Sasak | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0792 | Sauk | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0793 | Savona | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0794 | Savoy | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0795 | Sayn | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0796 | Schaumburg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0798 | Schlasing | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0802 | Secotan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0803 | Selknam | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0806 | Seram | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0807 | Seri | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0808 | Shah_Armen | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0809 | Shasta | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0813 | Shewa | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0814 | Shiba | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0816 | Shilahara | Right-offset motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0817 | Shimazu | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0818 | Shoni | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0822 | Sibir | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0829 | Singhasari | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0830 | Sitten | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0832 | Smolensk | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0833 | Soissons | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0838 | Sonneberg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0839 | Sosso | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0840 | Sotho | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0842 | Speyer | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0843 | Splugen | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0844 | Spokane | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0847 | Srivijaya | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0848 | Stadacona | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0850 | Stavelot_Malmedy | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0851 | Strasbourg | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0854 | Sum_Pa | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0855 | Suma | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0858 | Sunda | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0859 | Surui | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0860 | Susquehannock | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0861 | Sutiya | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0862 | Swasi | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0865 | Tahu | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0867 | Taino | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0873 | Tanga | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0875 | Tanimbar | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0877 | Tarasque | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0881 | Tchokwe | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0890 | Tepecoacuilco | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0892 | Teton | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0894 | Texcoco | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0897 | Thuringen | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0905 | Tlachquiauhco | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0906 | Tlacopan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0907 | Tlapacoyan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0908 | Tlapan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0911 | Tlingit | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0912 | Toboso | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0914 | Tochtepec | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0916 | Togashi | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0917 | Tohome | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0918 | Toki | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0919 | Toluca | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0922 | Toulouse | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0925 | Trient | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0926 | Trier | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0928 | Tripoli | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0931 | Tsimshian | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0932 | Tsonga | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0933 | Tswana | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0935 | Tuareg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0937 | Tubingen | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0941 | Tunguska | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0943 | Turkey | Left-offset motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0946 | Tuva | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0947 | Tuvalu | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0948 | Tuwharetoa | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0950 | Txikao | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0951 | Tyrconnell | Right-offset motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0952 | Tziuhcoac | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0955 | Uesugi | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0956 | Ulaidh | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0958 | Uncolonized | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0959 | United_States | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0961 | Utrecht | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0962 | Utsunomiya | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0963 | Uyghur | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0965 | Valkenburg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0975 | Vercelli | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0978 | Verona | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0982 | Volterra | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0983 | Voto | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0984 | Wagadugu | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0987 | Wairoa | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+0988 | Waldeck | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0989 | Waldenburg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0994 | Warupen | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0997 | Weapemeoc | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+0998 | Weda | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1001 | Werle | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1005 | Wichita | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1006 | Wielkopolska | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1008 | Winnebago | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1009 | Wipperfurt | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1010 | Wissembourg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1012 | Wittgenstein | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1014 | Wiyot | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1015 | Wolfach | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1016 | Wolkenstein | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1021 | Wurzburg | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1023 | Xerente | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1024 | Xhosa | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1025 | Xicallanca | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1028 | Xixime | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1030 | Xocotitlan | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1040 | Yemen | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+1041 | Yinggarda | Field / motif not isolated | 1.2 / 1.96129 | No obvious local issue
+1044 | Yopitzinco | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1045 | Yoruba | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1046 | Yuchi | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1048 | Yukaghir | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1049 | Yuki | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1051 | Yurumangui | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1056 | Zhang_Zhung | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1058 | Zimbabwe | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1060 | Zulu | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1061 | Zuozhen | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
+1063 | Zweibrucken | Centered motif (estimate) | 1.2 / 1.96129 | No obvious local issue
